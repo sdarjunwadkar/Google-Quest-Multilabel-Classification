@@ -4,7 +4,7 @@ Computers are really good at answering questions with single, verifiable answers
 
 Humans are better at addressing subjective questions that require a deeper, multidimensional understanding of context - something computers aren't trained to do well…yet.. Questions can take many forms - some have multi-sentence elaborations, others may be simple curiosity or a fully developed problem. They can have multiple intents, or seek advice and opinions. Some may be helpful and others interesting. Some are simple right or wrong.
 
-![image](https://github.com/sdarjunwadkar/Google-Quest-Multilabel-Classification/assets/59260370/eca40eb8-b4da-429e-9239-a9356d53ca11)
+![image](https://github.com/sdarjunwadkar/Google-Quest-Multilabel-Classification/assets/59260370/6d5b45c7-cbe0-4322-b277-cf4873fef3c8)
 
 
 Unfortunately, it’s hard to build better subjective question-answering algorithms because of a lack of data and predictive models. That’s why the CrowdSource team at Google Research, a group dedicated to advancing NLP and other types of ML science via crowdsourcing, has collected data on a number of these quality scoring aspects.
